@@ -1,2 +1,0 @@
-(self.webpackChunkDumb_Projects=self.webpackChunkDumb_Projects||[]).push([[555],{9657:function(e,t,a){"use strict";a.r(t);var l=a(7294),n=a(1588),i=a(635),r=a(4772);t.default=function(e){var t=e.data;return l.createElement(n.Z,null,l.createElement(i.Z,{title:"Latest Posts from ",link:"https://pilab.dev",linkTitle:"Pi Lab",alt:"Pi Lab"},t.allCustomApi.nodes[0].data.map((function(e){return l.createElement(r.Z,{key:e.toString(),title:e.title,image:e.coverImage,link:e.permalink})}))))}}}]);
-//# sourceMappingURL=component---src-pages-pilab-index-js-e92fedc0694d1eb0eba2.js.map

@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://Dumb-Projects/./src/pages/404.js"],"names":["Index"],"mappings":"wIAEA,UAAeA,EAAf","file":"component---src-pages-404-js-fb46ab4e43bbb0688a3c.js","sourcesContent":["import Index from \"./index\";\n\nexport default Index;"],"sourceRoot":""}
