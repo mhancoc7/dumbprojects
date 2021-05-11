@@ -1,0 +1,2 @@
+(self.webpackChunkDumb_Projects=self.webpackChunkDumb_Projects||[]).push([[883],{9616:function(e,u,s){"use strict";s.r(u);var t=s(7704);u.default=t.default}}]);
+//# sourceMappingURL=component---src-pages-404-js-fb46ab4e43bbb0688a3c.js.map

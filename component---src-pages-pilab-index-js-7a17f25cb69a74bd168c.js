@@ -1,2 +1,0 @@
-(self.webpackChunkDumb_Projects=self.webpackChunkDumb_Projects||[]).push([[555],{9657:function(e,t,a){"use strict";a.r(t);var r=a(7294),n=a(5444);t.default=function(){return(0,n.K2)("2184420680").allCustomApi.nodes[0].data.map((function(e){return r.createElement("li",{className:"pilabList"},r.createElement("a",{href:e.permalink,key:e.toString(),target:"_blank"},r.createElement("img",{src:e.coverImage,className:"pilabImg"})))}))}}}]);
-//# sourceMappingURL=component---src-pages-pilab-index-js-7a17f25cb69a74bd168c.js.map
