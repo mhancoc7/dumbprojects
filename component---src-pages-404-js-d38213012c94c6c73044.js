@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkDumb_Projects=self.webpackChunkDumb_Projects||[]).push([[883],{9616:function(u,e,n){n.r(e);var t=n(7294),c=n(9499);e.default=function(){return(0,t.useEffect)((function(){(0,c.navigate)("/")}),[]),null}}}]);
+//# sourceMappingURL=component---src-pages-404-js-d38213012c94c6c73044.js.map
